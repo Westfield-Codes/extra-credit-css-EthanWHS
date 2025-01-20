@@ -1,0 +1,51 @@
+#Nametag {
+    border-radius:20px;
+    background-color:gray;
+    width:800px;
+    height:440px;
+    text-align:center;
+    margin:auto;
+    box-shadow:20px 20px 35px;
+    overflow: hidden;
+}
+#Hello {
+    color:white;
+    background-color:magenta;
+    font-family:sans-serif; 
+    font-size:80px;
+}
+
+#Name {
+    color:magenta;
+    background-color:white;
+    font-weight:bold;
+    font-family:sans-serif;
+    font-size:55px;
+    padding:-10px;
+    margin-top:-10px;
+}
+
+#Hello h1 {
+    Margin:0;
+}
+#Name {
+    Margin:-55px;
+}
+input { 
+    border-bottom:6px solid magenta;
+    border-top:0px;
+    border-left:0px;
+    border-right:0px;
+    margin: -25px;
+    outline:none;
+    width:796px;
+    height:50px;
+}
+
+#save:hover {
+    background-color:green;
+}
+
+ #save {
+    margin:20px;
+ }
